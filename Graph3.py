@@ -1,3 +1,6 @@
+#ChatGPT Prompt: How do I make group countries based on their continent
+#ChatGPT Prompt: How can I filter out outliers to avoid the scale from being immensely skewed by them
+
 import plotly.express as px
 import pandas as pd
 import country_converter as coco
