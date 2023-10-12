@@ -1,5 +1,5 @@
-#ChatGPT Prompt: How do I make group countries based on their continent
-#ChatGPT Prompt: How can I filter out outliers to avoid the scale from being immensely skewed by them
+#ChatGPT Prompt: How do I add an animation frame to produce a slider for the years.
+#ChatGPT Prompt : How do I change the color scale.
 
 import plotly.express as px
 import pandas as pd
