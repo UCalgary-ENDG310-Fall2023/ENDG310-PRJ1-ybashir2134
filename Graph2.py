@@ -1,3 +1,6 @@
+#ChatGPT Prompt: How do I calculate the annual average a column of data for different countries
+#ChatGPT Prompt: How do I merge two data sets.
+
 import matplotlib.pyplot as plt
 import pandas as pd
 
